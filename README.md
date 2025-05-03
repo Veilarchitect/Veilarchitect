@@ -69,8 +69,12 @@ I focus on blending code, culture, and creativity to build digital experiences t
 </table>
 
 ---
+## 📊 GitHub Stats
+
+![Veilarchitect's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veilarchitect&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veilarchitect&layout=compact&theme=tokyonight)
 
 ## 🏗️ Featured Projects
-
+---
 ```diff
  (Just new here 😅)
