@@ -7,10 +7,10 @@
   - Open-source translation/localization work 🌍
   - Small narrative-based games or bots with personality ✨
 - 📫 How to reach me:
-  - Email: `veilarchitect.dev@gmail.com`
-  - Discord: `Veilarchitect#1234`
+  - Email: `aboelsoud648"gmail.com`
+  - Discord: `m7ammed200`
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I’ve watched over 25,000 anime episodes and I love blending tech with storytelling to create meaningful digital experiences.
+- ⚡ Fun fact: I’ve watched over 2,500 anime episodes and I love blending tech with storytelling to create meaningful digital experiences.
 
 ---
 
@@ -34,9 +34,8 @@
 ---
 
 ## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square)
 ![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=flat-square)
+![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square)
 ![German](https://img.shields.io/badge/German-Learning-yellow?style=flat-square)
 
 
