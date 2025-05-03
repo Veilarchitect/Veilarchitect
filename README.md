@@ -8,7 +8,6 @@
   <i>AI Innovator | Data Explorer | Interactive Storyteller | Language & Culture Enthusiast</i>
 </p>
 
-
 ---
 
 <p align="center">
@@ -21,60 +20,88 @@
 
 **Welcome to my GitHub profile!**
 
-I'm Veilarchitect, an explorer at the crossroads of technology and creativity from Egypt. My deepest passions revolve around:
-- 🤖 Artificial intelligence (especially NLP, language models, and bots with character)
-- 📊 Data analysis & automation
-- 🌍 Open-source translation and localization
-- 🎲 Narrative, interactive fiction, and creative coding in games
+I'm **Veilarchitect**, an explorer at the crossroads of technology and creativity from Egypt. My passions include:
+- 🤖 **Artificial Intelligence** (NLP, language models, and conversational bots)
+- 📊 **Data analysis** and **automation**
+- 🌍 **Open-source translation** and **localization**
+- 🎲 **Narrative storytelling**, interactive fiction, and game development
 
-I focus on blending code, culture, and creativity to build digital experiences that are both **meaningful and inclusive**.
+I blend code, creativity, and culture to build inclusive digital experiences that make an impact.
 
 ---
 
 ## 🏆 Quick Facts
 
 | 💡 |  My name is Mohammed Aboelsoud                              |
-|-----|-------------------------------------|
-| 🎓 | **Background:** Engineering, computing, linguistics (self-driven learner!) |
-| 🌱 | **Learning:** Python automation, game dev, data science, German, collaborative storytelling |
+|-----|-------------------------------------------------------------|
+| 🎓 | **Background:** Engineering, computing, linguistics (self-taught!) |
+| 🌱 | **Currently learning:** Python automation, game development, data science, German, storytelling |
 | 🏠 | **From:** Egypt                      |
-| 💻 | **Work Style**: Remote, async, and always about sharing knowledge!          |
+| 💻 | **Work Style:** Remote, async, always sharing knowledge! |
 | 📺 | **Anime watched:** 2500+ episodes 😅  |
 
 ---
 
 ## 🚀 Main Interests & Focus
 
-<table>
-  <tr>
-    <td><b>🤖 AI & NLP</b></td>
-    <td>Data wrangling, prompt engineering, chatbots, LLMs, and AI for creativity</td>
-  </tr>
-  <tr>
-    <td><b>🗺️ Localization/Translation</b></td>
-    <td>Bridging language/culture barriers in open source, games, and AI</td>
-  </tr>
-  <tr>
-    <td><b>🎮 Narrative Gaming</b></td>
-    <td>Game dev, story engines, interactive fiction, experiment bots</td>
-  </tr>
-  <tr>
-    <td><b>📊 Data Analysis</b></td>
-    <td>Py scripting, automation, dashboards, fun with data sets and stories</td>
-  </tr>
-  <tr>
-    <td><b>📝 Writing</b></td>
-    <td>Creative writing, digital storytelling, tech documentation</td>
-  </tr>
-</table>
+| **Field** | **Description** |
+|-----|-------------------------------------------------------|
+| 🤖 **AI & NLP** | Data wrangling, prompt engineering, LLMs, and AI creativity |
+| 🗺️ **Localization/Translation** | Bridging language and culture through open-source tools |
+| 🎮 **Narrative Gaming** | Game development, story engines, interactive fiction |
+| 📊 **Data Analysis** | Python scripting, automation, dashboards, and storytelling with data |
+| 📝 **Writing** | Creative writing, digital storytelling, technical documentation |
 
 ---
+
 ## 📊 GitHub Stats
 
 ![Veilarchitect's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veilarchitect&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veilarchitect&layout=compact&theme=tokyonight)
 
-## 🏗️ Featured Projects
 ---
-```diff
- (Just new here 😅)
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://guns.lol/veilarchitect">
+    <img src="https://img.shields.io/badge/veilarchitect-Profile-blue?style=for-the-badge&logo=github" alt="veilarchitect Profile" />
+  </a>
+
+---
+
+## 🏗️ Featured Projects
+
+**🔧 [AI Chatbot](https://github.com/Veilarchitect/ai-chatbot)**  
+_A chatbot built using advanced NLP models. Still a work in progress, but the vision is growing!_  
+[![Work In Progress](https://img.shields.io/badge/Status-WIP-orange?style=flat&logo=github)](https://github.com/Veilarchitect/ai-chatbot)
+
+**📊 [Data Dashboard](https://github.com/Veilarchitect/data-dashboard)**  
+_An interactive dashboard for data visualization, built with Python and Streamlit._  
+[![Work In Progress](https://img.shields.io/badge/Status-WIP-orange?style=flat&logo=github)](https://github.com/Veilarchitect/data-dashboard)
+
+**🎮 [Story Engine](https://github.com/Veilarchitect/story-engine)**  
+_A narrative game engine for creating interactive fiction and story-driven games._  
+[![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=flat&logo=github)](https://github.com/Veilarchitect/story-engine)
+
+**🌍 [Translation Tools](https://github.com/Veilarchitect/translation-tools)**  
+_Tools for localization and translation in the open-source world._  
+[![Work In Progress](https://img.shields.io/badge/Status-WIP-orange?style=flat&logo=github)](https://github.com/Veilarchitect/translation-tools)
+
+---
+
+## 🎮 Fun Facts
+
+- I’ve watched over **2500+ anime episodes** 😅 (anime is life!).
+- I love experimenting with **creative coding** to bring narratives to life.
+- When I’m not coding, I’m diving into games, exploring new concepts in AI, and thinking about new ways to combine them.
+
+---
+
+### 🎮 Check Out My Game Dev & AI Projects!
+
+Feel free to check out my repositories and explore some cool projects that showcase my interests, coding skills, and creativity! 😎
+
+---
+
+## 💬 If you want to chat, collaborate, or share ideas — **don’t hesitate to reach out!** 
