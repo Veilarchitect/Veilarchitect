@@ -33,7 +33,7 @@ I focus on blending code, culture, and creativity to build digital experiences t
 
 ## 🏆 Quick Facts
 
-| 💡 |                                    |
+| 💡 |  My name is Mohammed Aboelsoud                              |
 |-----|-------------------------------------|
 | 🎓 | **Background:** Engineering, computing, linguistics (self-driven learner!) |
 | 🌱 | **Learning:** Python automation, game dev, data science, German, collaborative storytelling |
